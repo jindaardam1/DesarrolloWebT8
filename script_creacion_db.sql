@@ -41,23 +41,23 @@ INSERT INTO creatures (creature_id, name, description, logia_id) VALUES
 (1, 'Cerbero', 'Perro de tres cabezas guardián del inframundo', 1),
 (2, 'Minotauro', 'Criatura con cuerpo de humano y cabeza de toro', 1),
 (3, 'Hidra', 'Serpiente acuática con múltiples cabezas', 1),
-(4, 'Quimera', 'Criatura con cabeza de león, cuerpo de cabra y cola de serpiente', 1),
+(4, 'Quimera', 'Criatura con cabeza de león, cuerpo de cabra y cola de serpiente', 3),
 (5, 'Vampiro', 'Criatura que se alimenta de la sangre de los vivos', 2),
 (6, 'Licántropo', 'Humano que se transforma en lobo en las noches de luna llena', 2),
-(7, 'Súcubo', 'Demonio femenino que seduce a los hombres en sueños', 2),
-(8, 'Kraken', 'Monstruo marino de enormes proporciones', 1),
+(7, 'Súcubo', 'Demonio femenino que seduce a los hombres en sueños', 4),
+(8, 'Kraken', 'Monstruo marino de enormes proporciones', 3),
 (9, 'Fénix', 'Ave legendaria que renace de sus cenizas', 1),
 (10, 'Grifo', 'Criatura con cuerpo de león y cabeza de águila', 1);
 
 -- Inserciones de ejemplo en la tabla "masones"
 INSERT INTO masones (masone_id, name, description, logia_id) VALUES 
-(1, 'John Doe', 'Mason perteneciente a la Logia de los Elementales', 1),
+(1, 'John Doe', 'Mason perteneciente a la Logia de los Elementales', 3),
 (2, 'Jane Smith', 'Mason perteneciente a la Logia de las Sombras', 2),
 (3, 'Michael Johnson', 'Mason perteneciente a la Logia de los Elementales', 1),
 (4, 'Emily Brown', 'Mason perteneciente a la Logia de las Sombras', 2),
 (5, 'David Williams', 'Mason perteneciente a la Logia de los Elementales', 1),
-(6, 'Emma Jones', 'Mason perteneciente a la Logia de las Sombras', 2),
-(7, 'James Miller', 'Mason perteneciente a la Logia de los Elementales', 1),
+(6, 'Emma Jones', 'Mason perteneciente a la Logia de las Sombras', 4),
+(7, 'James Miller', 'Mason perteneciente a la Logia de los Elementales', 3),
 (8, 'Olivia Davis', 'Mason perteneciente a la Logia de las Sombras', 2),
 (9, 'William Wilson', 'Mason perteneciente a la Logia de los Elementales', 1),
-(10, 'Sophia Taylor', 'Mason perteneciente a la Logia de las Sombras', 2);
+(10, 'Sophia Taylor', 'Mason perteneciente a la Logia de las Sombras', 3);
