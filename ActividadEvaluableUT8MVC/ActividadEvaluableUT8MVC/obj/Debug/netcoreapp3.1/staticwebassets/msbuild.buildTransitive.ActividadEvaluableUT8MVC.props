@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ActividadEvaluableUT8MVC.props" />
+</Project>
