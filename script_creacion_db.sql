@@ -4,6 +4,13 @@ CREATE DATABASE Mitologia;
 -- Uso de la base de datos recién creada
 USE Mitologia;
 
+-- Creación de la tabla "logias"
+CREATE TABLE logias (
+    logia_id INT PRIMARY KEY,
+    name VARCHAR(100),
+    description VARCHAR(255)
+);
+
 -- Creación de la tabla "creatures"
 CREATE TABLE creatures (
     creature_id INT PRIMARY KEY,
@@ -11,13 +18,6 @@ CREATE TABLE creatures (
     description VARCHAR(255),
     logia_id INT,
     FOREIGN KEY (logia_id) REFERENCES logias(logia_id)
-);
-
--- Creación de la tabla "logias"
-CREATE TABLE logias (
-    logia_id INT PRIMARY KEY,
-    name VARCHAR(100),
-    description VARCHAR(255)
 );
 
 -- Creación de la tabla "masones"
