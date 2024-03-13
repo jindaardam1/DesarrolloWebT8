@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyProductAttribute("ActividadEvaluableUT8MVC")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01595c13900170b6cc7a2de0a0f81dc565a79372")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03342593a42a6d7fe72471b35a99fc94b987fc67")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ActividadEvaluableUT8MVC.Views")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
