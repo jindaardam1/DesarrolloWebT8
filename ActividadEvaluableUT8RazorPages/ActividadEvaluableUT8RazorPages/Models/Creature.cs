@@ -10,14 +10,14 @@ namespace ActividadEvaluableUT8RazorPages.Models
 
         [Required]
         [StringLength(100)]
-        public string name { get; set; }
+        public required string name { get; set; }
 
         [StringLength(255)]
-        public string description { get; set; }
+        public required string description { get; set; }
 
         public int logia_id { get; set; }
 
         [ForeignKey("logia_id")]
-        public Logia Logia { get; set; }
+        public required Logia Logia { get; set; }
     }
 }
