@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ActividadEvaluableUT8RazorPages")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e494a4f8633e5c72f274f01528084782a9a7fe63")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0039cc78344c407d48f817dd0ad952029d09c0c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ActividadEvaluableUT8RazorPages")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ActividadEvaluableUT8RazorPages")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

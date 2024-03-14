@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\mario\\Desktop\\DesarrolloWebT8\\ActividadEvaluableUT8RazorPages\\ActividadEvaluableUT8RazorPages\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8085866D-56AD-42D2-8822-9D05647431FF}|ActividadEvaluableUT8RazorPages.csproj|c:\\users\\mario\\desktop\\desarrollowebt8\\actividadevaluableut8razorpages\\actividadevaluableut8razorpages\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8085866D-56AD-42D2-8822-9D05647431FF}|ActividadEvaluableUT8RazorPages.csproj|solutionrelative:data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8085866D-56AD-42D2-8822-9D05647431FF}|ActividadEvaluableUT8RazorPages.csproj|c:\\users\\mario\\desktop\\desarrollowebt8\\actividadevaluableut8razorpages\\actividadevaluableut8razorpages\\data\\actividadevaluableut8razorpagescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8085866D-56AD-42D2-8822-9D05647431FF}|ActividadEvaluableUT8RazorPages.csproj|solutionrelative:data\\actividadevaluableut8razorpagescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8085866D-56AD-42D2-8822-9D05647431FF}|ActividadEvaluableUT8RazorPages.csproj|c:\\users\\mario\\desktop\\desarrollowebt8\\actividadevaluableut8razorpages\\actividadevaluableut8razorpages\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8085866D-56AD-42D2-8822-9D05647431FF}|ActividadEvaluableUT8RazorPages.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8085866D-56AD-42D2-8822-9D05647431FF}|ActividadEvaluableUT8RazorPages.csproj|c:\\users\\mario\\desktop\\desarrollowebt8\\actividadevaluableut8razorpages\\actividadevaluableut8razorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8085866D-56AD-42D2-8822-9D05647431FF}|ActividadEvaluableUT8RazorPages.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8085866D-56AD-42D2-8822-9D05647431FF}|ActividadEvaluableUT8RazorPages.csproj|c:\\users\\mario\\desktop\\desarrollowebt8\\actividadevaluableut8razorpages\\actividadevaluableut8razorpages\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8085866D-56AD-42D2-8822-9D05647431FF}|ActividadEvaluableUT8RazorPages.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,25 +31,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\Desktop\\DesarrolloWebT8\\ActividadEvaluableUT8RazorPages\\ActividadEvaluableUT8RazorPages\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\mario\\Desktop\\DesarrolloWebT8\\ActividadEvaluableUT8RazorPages\\ActividadEvaluableUT8RazorPages\\Data\\SeedData.cs",
+              "RelativeToolTip": "Data\\SeedData.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwEEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T20:58:45.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ActividadEvaluableUT8RazorPagesContext.cs",
               "DocumentMoniker": "C:\\Users\\mario\\Desktop\\DesarrolloWebT8\\ActividadEvaluableUT8RazorPages\\ActividadEvaluableUT8RazorPages\\Data\\ActividadEvaluableUT8RazorPagesContext.cs",
               "RelativeDocumentMoniker": "Data\\ActividadEvaluableUT8RazorPagesContext.cs",
               "ToolTip": "C:\\Users\\mario\\Desktop\\DesarrolloWebT8\\ActividadEvaluableUT8RazorPages\\ActividadEvaluableUT8RazorPages\\Data\\ActividadEvaluableUT8RazorPagesContext.cs",
               "RelativeToolTip": "Data\\ActividadEvaluableUT8RazorPagesContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwBMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T00:41:57.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\mario\\Desktop\\DesarrolloWebT8\\ActividadEvaluableUT8RazorPages\\ActividadEvaluableUT8RazorPages\\Startup.cs",
               "RelativeDocumentMoniker": "Startup.cs",
               "ToolTip": "C:\\Users\\mario\\Desktop\\DesarrolloWebT8\\ActividadEvaluableUT8RazorPages\\ActividadEvaluableUT8RazorPages\\Startup.cs",
               "RelativeToolTip": "Startup.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T00:37:02.165Z",
               "EditorCaption": ""
@@ -58,7 +75,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\mario\\Desktop\\DesarrolloWebT8\\ActividadEvaluableUT8RazorPages\\ActividadEvaluableUT8RazorPages\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T00:37:01.049Z",
               "EditorCaption": ""
