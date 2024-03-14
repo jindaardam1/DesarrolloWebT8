@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ActividadEvaluableUT8RazorPages.props" />
+</Project>
