@@ -6,14 +6,14 @@ USE Mitologia;
 
 -- Creación de la tabla "logias"
 CREATE TABLE logias (
-    logia_id INT PRIMARY KEY,
+    logia_id INT IDENTITY(1,1) PRIMARY KEY,
     name VARCHAR(100),
     description VARCHAR(255)
 );
 
 -- Creación de la tabla "creatures"
 CREATE TABLE creatures (
-    creature_id INT PRIMARY KEY,
+    creature_id INT IDENTITY(1,1) PRIMARY KEY,
     name VARCHAR(100),
     description VARCHAR(255),
     logia_id INT,
@@ -22,12 +22,13 @@ CREATE TABLE creatures (
 
 -- Creación de la tabla "masones"
 CREATE TABLE masones (
-    masone_id INT PRIMARY KEY,
+    masone_id INT IDENTITY(1,1) PRIMARY KEY,
     name VARCHAR(100),
     description VARCHAR(255),
     logia_id INT,
     FOREIGN KEY (logia_id) REFERENCES logias(logia_id)
 );
+
 
 -- Inserciones de ejemplo en la tabla "logias"
 INSERT INTO logias (logia_id, name, description) VALUES 
