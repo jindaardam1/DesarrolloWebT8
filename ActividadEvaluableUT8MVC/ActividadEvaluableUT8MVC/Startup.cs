@@ -1,4 +1,4 @@
-using Microsoft.AspNetCore.Builder;
+﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
@@ -8,6 +8,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
+using ActividadEvaluableUT8MVC.Data;
 
 namespace ActividadEvaluableUT8MVC
 {
@@ -24,6 +26,9 @@ namespace ActividadEvaluableUT8MVC
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+
+            services.AddDbContext<ActividadEvaluableUT8MVCContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("ActividadEvaluableUT8MVCContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
